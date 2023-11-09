@@ -6,9 +6,12 @@ A Biologist Turned Software Engineer
 ```javascript
 const jocelyn = {
   pronouns: "she" | "her",
-  frameworks: [Node.js, React, Redux, REST API’s, ContextAPI],
-  programmingLanguages: [JavaScript, TypeSript, SCSS/CSS, HTML ],
-  tools: [Github, Heroku, Vercel],
+
+: 
+: 
+  technologies: [React, JavaScript, TypeScript, Redux, ContextAPI, Router, SASS/CSS, HTML, Node.js, Express.js, Webpack, R, GIS],
+  testing: [E2E testing via Cypress, unit testing via Mocha and Chai],
+  collaboration: [GitHub, Continuous Integration via GitHub Actions, Agile Development ]
   funFact: "Pacific Lamprey(Entosphenus tridentatus) are one of my favorite fish!"
 }
 ```
