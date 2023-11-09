@@ -9,7 +9,7 @@ const jocelyn = {
 
 : 
 : 
-  technologies: [React, JavaScript, TypeScript, Redux, ContextAPI, Router, SASS/CSS, HTML, Node.js, Express.js, Webpack, R, GIS],
+  technologies: [React, JavaScript, TypeScript, Redux, ContextAPI, Route, SASS/CSS, HTML, Node.js, Express.js, Webpack, R, GIS],
   testing: [E2E testing via Cypress, unit testing via Mocha and Chai],
   collaboration: [GitHub, Continuous Integration via GitHub Actions, Agile Development ]
   funFact: "Pacific Lamprey(Entosphenus tridentatus) is one of my favorite fish!"
