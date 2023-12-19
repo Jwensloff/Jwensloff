@@ -41,6 +41,5 @@ Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jo
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
 
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=jwensloff" />
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jwensloff&show_icons=true&locale=en&layout=compact" alt="jwensloff" /></p></div>
 
