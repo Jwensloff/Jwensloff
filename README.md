@@ -2,7 +2,7 @@
 
 ## <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30"> Hi, I'm Jocelyn Wensloff!
 
-A Biologist Turned Software Engineer
+A Software Engineer and formere Biologist 
 ### A little about me...  
 </div>
 
