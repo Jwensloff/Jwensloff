@@ -18,7 +18,7 @@ const jocelyn = {
 <div align="center">
 With a background in environmental science and biology, I spent many years studying how people fit into the larger system around them. That lens has translated into coding by studying how a line of code can fit into a  larger application. I bring a strong foundation in critical thinking and problem solving which I have leveraged during my transition into front end software engineering. I am excited to continue to grow in this field and am driven to continue to study the lines and connections that is software engineering. 
 
-Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jocelynwensloff/) or check out my [portfolio](https://www.jocelynwensloff.com)
+#### Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jocelynwensloff/) or check out my [portfolio](https://www.jocelynwensloff.com)
 
 ## Technologies Used:
 
