@@ -9,8 +9,7 @@ A Software Engineer and former Biologist
 ```javascript
 const jocelyn = {
   pronouns: 'she/her',
-  location: 'Bozeman, MT, USA',
-  has_dog: true,
+  location: 'Missoula, MT, USA',
   funFact: 'Pacific Lamprey(Entosphenus tridentatus) is one of my favorite fish!'
 }
 ```
